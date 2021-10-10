@@ -1,5 +1,6 @@
+torch
+torchaudio
+torchvision
 fastai==2.2.5
-torch==1.9.1+cpu 
-torchvision==0.10.1+cpu 
 ipython
 voila
